@@ -13,7 +13,7 @@ function App() {
             <Router>
                 <Routes>
                     <Route
-                        path="/netflix-replica"
+                        path="/"
                         element={
                             <React.Fragment>
                                 <Header />
